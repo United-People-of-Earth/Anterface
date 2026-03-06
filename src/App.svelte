@@ -80,7 +80,7 @@
   <div class="node">
     <div class="content">
       <div>
-        <p>Anterface — the Artificial Neural Network Interface</p>
+        <p>Anterface – the Artificial Neural Network Interface</p>
       </div>
     </div>
     <div class="connector bottom">
@@ -127,6 +127,7 @@
       .content {
         display: flex;
         justify-content: center;
+
         & > * {
           border: 1px solid gray;
           padding: 1ch;
@@ -137,6 +138,7 @@
       .connector {
         text-align: center;
         transform: translateY(-50%);
+
         button {
           border-radius: 50%;
           aspect-ratio: 1 / 1;
