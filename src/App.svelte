@@ -98,7 +98,7 @@
       <div>
         <div class="content">
           <div>
-            <p>🚧 In construction...</p>
+            <p>🚧 Coming soon...</p>
           </div>
         </div>
       </div>
